@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Shopperstack.HybridFRM3">
+        <methods>
+          <include name="MN_041"/>
+          <include name="MN_050"/>
+          <include name="MN_040"/>
+          <include name="Openbrowser"/>
+          <include name="Closebrowser"/>
+          <include name="MN_039"/>
+          <include name="MN_035andMN_036"/>
+          <include name="MN_045"/>
+          <include name="MN_038"/>
+          <include name="MN_049"/>
+          <include name="MN_042"/>
+          <include name="MN_043"/>
+          <include name="MN_044"/>
+          <include name="MN_046"/>
+          <include name="MN_047"/>
+          <include name="MN_037"/>
+          <include name="MN_048"/>
+        </methods>
+      </class> <!-- Shopperstack.HybridFRM3 -->
+      <class name="Shopperstack.HybridFRM">
+        <methods>
+          <include name="MN_006"/>
+          <include name="Openbrowser"/>
+          <include name="MN_005"/>
+          <include name="Closebrowser"/>
+          <include name="MN_003"/>
+          <include name="MN_014"/>
+          <include name="MN_004"/>
+          <include name="MN_015"/>
+          <include name="MN_012"/>
+          <include name="MN_002"/>
+          <include name="MN_013"/>
+          <include name="MN_010"/>
+          <include name="MN_011"/>
+          <include name="MN_009"/>
+          <include name="MN_007"/>
+          <include name="MN_008"/>
+        </methods>
+      </class> <!-- Shopperstack.HybridFRM -->
+      <class name="Shopperstack.HybridFRM2">
+        <methods>
+          <include name="MN_030"/>
+          <include name="MN_019"/>
+          <include name="Openbrowser"/>
+          <include name="Closebrowser"/>
+          <include name="MN_018"/>
+          <include name="MN_017"/>
+          <include name="MN_022"/>
+          <include name="MN_033"/>
+          <include name="MN_026"/>
+          <include name="MN_021"/>
+          <include name="MN_032"/>
+          <include name="MN_020"/>
+          <include name="MN_023"/>
+          <include name="MN_034"/>
+          <include name="MN_025"/>
+          <include name="MN_024"/>
+          <include name="MN_016"/>
+          <include name="MN_027"/>
+        </methods>
+      </class> <!-- Shopperstack.HybridFRM2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
